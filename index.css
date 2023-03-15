@@ -1,0 +1,17 @@
+.form{
+    padding: 5%;
+    border: 1px solid blue;
+    width: 30%;
+    margin-left: 30%;
+    margin-top: 5%;
+    box-shadow: rgb(17, 17, 145) 5px 5px, rgb(17, 17, 145) 10px 10px, rgb(17, 17, 145) 15px 15px, rgb(17, 17, 145) 20px 20px, rgb(17, 17, 145) 25px 25px;
+}
+
+#p1{
+    background-color: black;
+    font-size: 25px;
+    width: 30%;
+    margin-left: 30%;
+    margin-top: 3%;
+    color: white;
+}
